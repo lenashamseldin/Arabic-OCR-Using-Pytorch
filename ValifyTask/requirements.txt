@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+torchvision==0.13.0
+pillow 
+matplotlib
+numpy
+pathlib
+regex
